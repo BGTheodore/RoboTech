@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.1)  21 FEB 2021 16:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.12.1)  21 FEB 2021 16:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -235,12 +235,12 @@ LaTeX Info: Redefining \nameref on input line 7.
 \@outlinefile=\write3
 \openout3 = `RestoTech.out'.
 
-<logo_ueh.jpg, id=28, 447.8331pt x 219.219pt>
+<logo_ueh.jpg, id=32, 447.8331pt x 219.219pt>
 File: logo_ueh.jpg Graphic file (type jpg)
 <use logo_ueh.jpg>
 Package pdftex.def Info: logo_ueh.jpg  used on input line 11.
 (pdftex.def)             Requested size: 195.0pt x 95.45314pt.
-<logoFDS.jpg, id=29, 642.4pt x 642.4pt>
+<logoFDS.jpg, id=33, 642.4pt x 642.4pt>
 File: logoFDS.jpg Graphic file (type jpg)
 <use logoFDS.jpg>
 Package pdftex.def Info: logoFDS.jpg  used on input line 13.
@@ -345,29 +345,35 @@ Chapter 6.
 ]
 \openout2 = `Conclusion/conclusion.aux'.
 
- (/home/bgt/Documents/EN3/Mycrosysteme/RestoTech/restoTex/Conclusion/conclusion.tex)
+ (/home/bgt/Documents/EN3/Mycrosysteme/RestoTech/restoTex/Conclusion/conclusion.tex
+Chapter 7.
+) [11
+
+
+
+]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 60.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 60.
  (/home/bgt/Documents/EN3/Mycrosysteme/RestoTech/restoTex/RestoTech.aux (/home/bgt/Documents/EN3/Mycrosysteme/RestoTech/restoTex/Resume/resume.aux) (/home/bgt/Documents/EN3/Mycrosysteme/RestoTech/restoTex/Glossaire/glossaire.aux) (/home/bgt/Documents/EN3/Mycrosysteme/RestoTech/restoTex/Contexte/contexte.aux) (/home/bgt/Documents/EN3/Mycrosysteme/RestoTech/restoTex/Objectif/objectif.aux) (/home/bgt/Documents/EN3/Mycrosysteme/RestoTech/restoTex/Périmètre/périmètre.aux) (/home/bgt/Documents/EN3/Mycrosysteme/RestoTech/restoTex/Fonctionnement/fonctionnement.aux) (/home/bgt/Documents/EN3/Mycrosysteme/RestoTech/restoTex/Ressources/ressources.aux) (/home/bgt/Documents/EN3/Mycrosysteme/RestoTech/restoTex/Budget_Delai/budgetDelai.aux) (/home/bgt/Documents/EN3/Mycrosysteme/RestoTech/restoTex/Conclusion/conclusion.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 60.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 60.
 Package rerunfilecheck Info: File `RestoTech.out' has not changed.
-(rerunfilecheck)             Checksum: CFB04FA07DC1511513C71BCBCDCB2FD7;285.
+(rerunfilecheck)             Checksum: A1589D17FEB7BAA6523BC9A70722B97F;330.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 60.
  ) 
 Here is how much of TeX's memory you used:
- 6602 strings out of 481239
- 109872 string characters out of 5920377
+ 6606 strings out of 481239
+ 109910 string characters out of 5920377
  362114 words of memory out of 5000000
- 21670 multiletter control sequences out of 15000+600000
+ 21671 multiletter control sequences out of 15000+600000
  539282 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  50i,6n,48p,487b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on /home/bgt/Documents/EN3/Mycrosysteme/RestoTech/restoTex/RestoTech.pdf (12 pages, 851493 bytes).
+Output written on /home/bgt/Documents/EN3/Mycrosysteme/RestoTech/restoTex/RestoTech.pdf (13 pages, 851878 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
- 59 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 145 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 67 words of extra memory for PDF output out of 10000 (max. 10000000)
 
