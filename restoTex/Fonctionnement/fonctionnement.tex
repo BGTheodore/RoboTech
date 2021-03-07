@@ -1,5 +1,37 @@
 \chapter{Fonctionnement}
 \paragraph{}
+Le client branché entre par une porte spéciale. Son 
+nom est saisi dans un système de gestion. Une table 
+lui est alors assignée, ainsi qu'un nuuméro unique.
+À noter que plusieurs clients peuvent partager une 
+table. Ils ne seront simplement pas tous enregistrés 
+individuellement, mais sous un seul identifiant. \par 
+Le numéro une fois communiquée au client, un point 
+lumineux indique sa place sur un plan (affiché sur un 
+mur situé en face de l'entrée). Dès que le client 
+s'est installé, le robot vient à sa table pour prendre
+sa commande. Une fois la commande reçue, le robot 
+transmet à un barman en charge de préparer le plateu
+qui est ensuite déposé dans un receptacle où le robot 
+le prend pour l'apporter au client, repéré par son 
+numéro. \par 
+Chaque table dispose d'un petit panneau pour passer
+des instructions. Ce panneau comporte trois boutons:
+\par 
+\begin{itemize}
+    \item Service: le client souhaite placer une nouvelle commande
+    \item Facture: le client demande sa facture afin de payer ses consommations
+    \item Fin: le client se lève et libère la place qu'il occupait.
+    Après avoir payé sa facture, si la place n'est pas 
+    libérée dans un délai de dix (10) minutes, une alerte
+    est envoyée au gestionnaire de la salle avec le 
+    numéro et le nom du client.
+\end{itemize}
+\par
+Le robot a la charge d'apporter au client sa facture. 
+Après validation de cette dernière, le client quitte sa
+place et laisse le restaurant.
+
 Fonctionnement : Décrivez de manière exhaustive les 
 différents leviers du projet à travers une description 
 fonctionnelle qui consiste à expliquer les besoins
